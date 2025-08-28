@@ -18,8 +18,11 @@ A modern React application for financial calculations, built to test Claude Code
 ## 🛠 Getting Started
 
 ```bash
-# Navigate to the calculator
-cd financial-calculator
+# Clone the repository
+git clone https://github.com/jamesallen74/cc-test.git
+
+# Navigate to the project
+cd cc-test
 
 # Install dependencies
 npm install
